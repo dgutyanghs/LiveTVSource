@@ -1,0 +1,19 @@
+WireShark
+Discovery HD, http://pili-live-hdl.qhmywl.com/dsdtv/f82bcb85f1a67e5b4754f7be0661dc72.flv
+BBC earth, http://pili-live-hdl.qhmywl.com/dsdtv/f7146ac8e65cb75112431f87ddcea22e.flv
+CNA, http://pili-live-hdl.qhmywl.com/dsdtv/1aab6cf57296bdefc6f4bea94702782a.flv
+Euronews, http://pili-live-hdl.qhmywl.com/dsdtv/7c52797bf1ca2da52c212bdead1d607c.flv
+CNN, http://pili-live-hdl.qhmywl.com/dsdtv/5ff1924613169c0b7148e528d0cfe0fd.flv
+Fox, http://pili-live-hdl.qhmywl.com/dsdtv/b78a7c4f460285596b53bfa802eca8e8.flv
+Sky news, http://pili-live-hdl.qhmywl.com/dsdtv/64a4807c0cf482cffe922d7b8f091303.flv
+BBC World, http://pili-live-hdl.qhmywl.com/dsdtv/6d735caeaf70f8901aa00f86aefc4dde.flv
+History, http://pili-live-hdl.qhmywl.com/dsdtv/998ce23199bda76900024601f6dd859d.flv
+History2, http://pili-live-hdl.qhmywl.com/dsdtv/b4d47c14a4665a2ef43d657ea6384c27.flv
+Blue ANT, http://pili-live-hdl.qhmywl.com/dsdtv/7b3b2e1d0006091415635226a2ac5d86.flv 
+Blue Ent, http://pili-live-hdl.qhmywl.com/dsdtv/41005bf306743766c5affb055bc5c164.flv
+Peal, http://pili-live-hdl.qhmywl.com/dsdtv/e5b375085720fd04cec615352224b493.flv
+Bloomberg, http://pili-live-hdl.qhmywl.com/dsdtv/ab2450af4c80b52d0810eceaf055abee.flv
+National GEO, http://pili-live-hdl.qhmywl.com/dsdtv/1b4017a457de80eec599895ec807e124.flv
+TLC, http://pili-live-hdl.qhmywl.com/dsdtv/2389cbac5b421dd5b069a232f3d321bc.flv
+
+
