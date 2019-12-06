@@ -1,0 +1,7 @@
+HongKong
+
+TVB 翡翠台, http://pili-live-hdl.qhmywl.com/dsdtv/b3a93cbbd1908e81783879747bb3090a.flv
+TVB News, http://pili-publish.miaobolive.com/live/ews66880.m3u8
+HKC新闻台, http://hdl0901.plures.net/onlive/bb22bdfb81ca6fdb726b9cb02a34539b58f.flv
+韩国娱乐台, http://pili-live-hdl.qhmywl.com/dsdtv/8ae61414f7e2972598956105e2e9969d.flv
+NHK World, http://pili-live-hdl.qhmywl.com/dsdtv/1b06c6242b2fd17ab11a21d70abb2e67.flv
