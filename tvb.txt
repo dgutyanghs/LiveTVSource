@@ -1,0 +1,5 @@
+TVB
+
+TVB新闻官方, http://hk4-edge29-2.edgeware.tvb.com:80/session/29af16f2-2eb3-11ea-ac45-0050569023d7/qh33qv/newslive/smil:mobilehd_news_windows1.smil/chunklist_b1096000.m3u8
+
+TVB财经官方, http://hk4-edge28-2.edgeware.tvb.com:80/session/8c0e687a-2eb3-11ea-bf30-005056b12cf7/qh33qv/newslive/smil:mobilehd_finance.smil/chunklist_b1096000.m3u8
